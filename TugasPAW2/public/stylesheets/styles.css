@@ -612,6 +612,11 @@ progress {
   height: auto;
 }
 
+.portfolio-box img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
 .figure {
   display: inline-block;
 }
